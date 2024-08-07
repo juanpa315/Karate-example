@@ -7,4 +7,4 @@ Feature: Delete a Booking
   Scenario: Delete an existing booking
     Given path 'booking', 1
     When method delete
-    Then status 201
+    Then status 200
