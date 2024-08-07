@@ -2,6 +2,7 @@
 *.jar
 *.iml
 target/
+reports/
 .idea/
 .vscode/
 
